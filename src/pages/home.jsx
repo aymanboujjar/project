@@ -29,28 +29,28 @@ export const Home = () => {
             <div className="mb-6 p-4 bg-white rounded-lg shadow-sm">
                 <h2 className="text-2xl font-semibold mb-4">General Information</h2>
                 <ul className="list-disc pl-6 space-y-2">
-                    <li><strong>Description:</strong> The Premier League is the highest level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League (EFL). Seasons usually run from August to May, with each team playing 38 matches: two against each other, one home and one away.</li>
-                    <li><strong>Founding Date:</strong> 20 February 1992</li>
-                    <li><strong>Founding Reason:</strong> Decision of First Division clubs to break away from the English Football League</li>
-                    <li><strong>Number of Teams:</strong> 20</li>
-                    <li><strong>Relegation and Promotion:</strong> Clubs may still be relegated to and promoted from the EFL Championship</li>
+                    <li><b>Description:</b> The Premier League is the highest level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League (EFL). Seasons usually run from August to May, with each team playing 38 matches: two against each other, one home and one away.</li>
+                    <li><b>Founding Date:</b> 20 February 1992</li>
+                    <li><b>Founding Reason:</b> Decision of First Division clubs to break away from the English Football League</li>
+                    <li><b>Number of Teams:</b> 20</li>
+                    <li><b>Relegation and Promotion:</b> Clubs may still be relegated to and promoted from the EFL Championship</li>
                 </ul>
             </div>
 
             <div className="mb-6 p-4 bg-white rounded-lg shadow-sm">
                 <h2 className="text-2xl font-semibold mb-4">Broadcasting</h2>
                 <ul className="list-disc pl-6 space-y-2">
-                    <li><strong>Domestic Rights:</strong>
+                    <li><b>Domestic Rights:</b>
                         <ul className="list-disc pl-6 space-y-1">
-                            <li><strong>Sky:</strong> 128 games</li>
-                            <li><strong>BT Group:</strong> 32 games</li>
+                            <li><b>Sky:</b> 128 games</li>
+                            <li><b>BT Group:</b> 32 games</li>
                         </ul>
                     </li>
-                    <li><strong>Television Deal:</strong>
+                    <li><b>Television Deal:</b>
                         <ul className="list-disc pl-6 space-y-1">
-                            <li><strong>Current Value:</strong> £5 billion</li>
-                            <li><strong>Future Value:</strong> £6.7 billion (2025–2029)</li>
-                            <li><strong>Overseas Rights:</strong> Earnings projected at $7.2 billion (2022–2025)</li>
+                            <li><b>Current Value:</b> £5 billion</li>
+                            <li><b>Future Value:</b> £6.7 billion (2025–2029)</li>
+                            <li><b>Overseas Rights:</b> Earnings projected at $7.2 billion (2022–2025)</li>
                         </ul>
                     </li>
                 </ul>
@@ -59,13 +59,13 @@ export const Home = () => {
             <div className="mb-6 p-4 bg-white rounded-lg shadow-sm">
                 <h2 className="text-2xl font-semibold mb-4">Management</h2>
                 <ul className="list-disc pl-6 space-y-2">
-                    <li><strong>Type:</strong> Corporation</li>
-                    <li><strong>Manager:</strong> Chief Executive</li>
-                    <li><strong>Shareholders:</strong> Member clubs</li>
-                    <li><strong>Revenue:</strong>
+                    <li><b>Type:</b> Corporation</li>
+                    <li><b>Manager:</b> Chief Executive</li>
+                    <li><b>Shareholders:</b> Member clubs</li>
+                    <li><b>Revenue:</b>
                         <ul className="list-disc pl-6 space-y-1">
-                            <li><strong>Central Payment:</strong> £2.4 billion (2016–17)</li>
-                            <li><strong>Solidarity Payments:</strong> £343 million to EFL clubs</li>
+                            <li><b>Central Payment:</b> £2.4 billion (2016–17)</li>
+                            <li><b>Solidarity Payments:</b> £343 million to EFL clubs</li>
                         </ul>
                     </li>
                 </ul>
@@ -74,73 +74,73 @@ export const Home = () => {
             <div className="mb-6 p-4 bg-white rounded-lg shadow-sm">
                 <h2 className="text-2xl font-semibold mb-4">Popularity</h2>
                 <ul className="list-disc pl-6 space-y-2">
-                    <li><strong>Most Watched:</strong> Yes</li>
-                    <li><strong>Broadcast Coverage:</strong>
+                    <li><b>Most Watched:</b> Yes</li>
+                    <li><b>Broadcast Coverage:</b>
                         <ul className="list-disc pl-6 space-y-1">
-                            <li><strong>Territories:</strong> 212</li>
-                            <li><strong>Homes:</strong> 643 million</li>
-                            <li><strong>Potential Audience:</strong> 4.7 billion people</li>
+                            <li><b>Territories:</b> 212</li>
+                            <li><b>Homes:</b> 643 million</li>
+                            <li><b>Potential Audience:</b> 4.7 billion people</li>
                         </ul>
                     </li>
-                    <li><strong>Average Match Attendance:</strong> 38,181</li>
-                    <li><strong>Highest Aggregated Attendance:</strong> 14,508,981</li>
-                    <li><strong>Stadium Occupancy:</strong> Most near capacity</li>
+                    <li><b>Average Match Attendance:</b> 38,181</li>
+                    <li><b>Highest Aggregated Attendance:</b> 14,508,981</li>
+                    <li><b>Stadium Occupancy:</b> Most near capacity</li>
                 </ul>
             </div>
 
             <div className="mb-6 p-4 bg-white rounded-lg shadow-sm">
                 <h2 className="text-2xl font-semibold mb-4">UEFA Ranking</h2>
                 <ul className="list-disc pl-6 space-y-2">
-                    <li><strong>Position:</strong> 1</li>
-                    <li><strong>Comparison:</strong> Ranked first in UEFA coefficient rankings, ahead of Spain's La Liga</li>
+                    <li><b>Position:</b> 1</li>
+                    <li><b>Comparison:</b> Ranked first in UEFA coefficient rankings, ahead of Spain's La Liga</li>
                 </ul>
             </div>
 
             <div className="mb-6 p-4 bg-white rounded-lg shadow-sm">
                 <h2 className="text-2xl font-semibold mb-4">European Titles</h2>
                 <ul className="list-disc pl-6 space-y-2">
-                    <li><strong>Number of Titles:</strong> 15</li>
-                    <li><strong>Record:</strong> Six English clubs</li>
-                    <li><strong>Title:</strong> Second-highest number of European Cup / UEFA Champions League titles</li>
+                    <li><b>Number of Titles:</b> 15</li>
+                    <li><b>Record:</b> Six English clubs</li>
+                    <li><b>Title:</b> Second-highest number of European Cup / UEFA Champions League titles</li>
                 </ul>
             </div>
 
             <div className="p-4 bg-white rounded-lg shadow-sm">
                 <h2 className="text-2xl font-semibold mb-4">Clubs</h2>
                 <ul className="list-disc pl-6 space-y-2">
-                    <li><strong>Number of Clubs:</strong> 51</li>
-                    <li><strong>Clubs Competing:</strong>
+                    <li><b>Number of Clubs:</b> 51</li>
+                    <li><b>Clubs Competing:</b>
                         <ul className="list-disc pl-6 space-y-1">
-                            <li><strong>English:</strong> 49</li>
-                            <li><strong>Welsh:</strong> 2</li>
+                            <li><b>English:</b> 49</li>
+                            <li><b>Welsh:</b> 2</li>
                         </ul>
                     </li>
-                    <li><strong>Title Winners:</strong>
+                    <li><b>Title Winners:</b>
                         <ul className="list-disc pl-6 space-y-1">
-                            <li><strong>Manchester United:</strong> 13</li>
-                            <li><strong>Manchester City:</strong> 8</li>
-                            <li><strong>Chelsea:</strong> 5</li>
-                            <li><strong>Arsenal:</strong> 3</li>
-                            <li><strong>Blackburn Rovers:</strong> 1</li>
-                            <li><strong>Leicester City:</strong> 1</li>
-                            <li><strong>Liverpool:</strong> 1</li>
+                            <li><b>Manchester United:</b> 13</li>
+                            <li><b>Manchester City:</b> 8</li>
+                            <li><b>Chelsea:</b> 5</li>
+                            <li><b>Arsenal:</b> 3</li>
+                            <li><b>Blackburn Rovers:</b> 1</li>
+                            <li><b>Leicester City:</b> 1</li>
+                            <li><b>Liverpool:</b> 1</li>
                         </ul>
                     </li>
-                    <li><strong>Special Notes:</strong>
+                    <li><b>Special Notes:</b>
                         <ul className="list-disc pl-6 space-y-1">
-                            <li><strong>Most Titles:</strong>
+                            <li><b>Most Titles:</b>
                                 <ul className="list-disc pl-6 space-y-1">
-                                    <li><strong>Club:</strong> Manchester United</li>
-                                    <li><strong>Titles:</strong> 13</li>
+                                    <li><b>Club:</b> Manchester United</li>
+                                    <li><b>Titles:</b> 13</li>
                                 </ul>
                             </li>
-                            <li><strong>Most Successive Titles:</strong>
+                            <li><b>Most Successive Titles:</b>
                                 <ul className="list-disc pl-6 space-y-1">
-                                    <li><strong>Club:</strong> Manchester City</li>
-                                    <li><strong>Titles:</strong> 4</li>
+                                    <li><b>Club:</b> Manchester City</li>
+                                    <li><b>Titles:</b> 4</li>
                                 </ul>
                             </li>
-                            <li><strong>Clubs in Every Season:</strong>
+                            <li><b>Clubs in Every Season:</b>
                                 <ul className="list-disc pl-6 space-y-1">
                                     <li>Arsenal</li>
                                     <li>Chelsea</li>
